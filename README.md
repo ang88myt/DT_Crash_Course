@@ -1,4 +1,8 @@
-### Day 1: Introduction to Digital Twins(Real-World Applications)
+***
+16/01 Tuesday
+*** 
+### Day 1 
+### Introduction to Digital Twins(Real-World Applications)
 
 #### Objective:
 To provide a foundational understanding of digital twin technology, its history, key concepts, and applications across various industries. This will be complemented by an introduction to the primary software tools: Blender 3D, NVIDIA Omniverse, and Unreal Engine.
@@ -52,9 +56,13 @@ To provide a foundational understanding of digital twin technology, its history,
 
 This assignment aims to encourage learners to think critically about the practical applications of digital twin technology and understand its transformative potential in various sectors. It also serves as a foundation for more technical learning in the coming days.
 
+***
+17/01 Wedneday
+***
 
+### Day 2
 
-### Day 2: Fundamentals of 3D Modeling with Blender 3D
+### Fundamentals of 3D Modeling with Blender 3D
 
 #### Objective:
 To introduce the basics of 3D modeling using Blender 3D. This session aims to familiarize beginners with Blender's interface, basic tools, and techniques for creating simple 3D models, laying the groundwork for more complex tasks in digital twin development.
@@ -97,9 +105,12 @@ Group Meeting
 The goal of this assignment is to apply the day's learning in a practical scenario, helping solidify the basic concepts of 3D modeling in Blender. This exercise also prepares participants for more complex modeling tasks required in digital twin development.
 
 
+***
+18/01 Thursday
+***
 
-
-### Day 3: Introduction to NVIDIA Omniverse
+### Day 3
+### Introduction to NVIDIA Omniverse
 
 #### Objective:
 To introduce participants to NVIDIA Omniverse, a platform designed for collaboration and simulation in creating digital twins. The session will cover the basics of Omniverse's interface, its role in digital twins, and how to set up and run simple simulations.
@@ -155,9 +166,12 @@ To introduce participants to NVIDIA Omniverse, a platform designed for collabora
 
 This assignment aims to provide hands-on experience with NVIDIA Omniverse, focusing on its collaborative and simulation features. It's a critical step for participants to understand how Omniverse can be integrated into the workflow of creating digital twins.
 
+***
+19/01 Friday
+***
 
-
-### Day 4 Friday: Integration and Data Management in NVIDIA Omniverse
+### Day 4 
+### Integration and Data Management in NVIDIA Omniverse
 
 #### Objective:
 To deepen understanding of data integration and management within NVIDIA Omniverse, crucial for building effective digital twins. This session will focus on how to import, manage, and utilize data from various sources, as well as handling real-time updates and collaboration within Omniverse.
@@ -199,9 +213,12 @@ Start-up Launchpad Visit
 
 This assignment is designed to give participants practical experience in handling and visualizing data within Omniverse, a key component in the creation and management of digital twins. It encourages understanding the interplay between data, simulation, and collaboration in a dynamic environment.
 
+***
+22/01 Monday
+***
 
-
-### Day 5: Unreal Engine Basics
+### Day 5
+### Unreal Engine Basics
 
 #### Objective:
 To introduce participants to Unreal Engine, focusing on its capabilities for creating realistic environments and simulations. This session covers the basics of the Unreal Engine interface, scene creation, and fundamental tools essential for digital twin development.
@@ -257,9 +274,12 @@ To introduce participants to Unreal Engine, focusing on its capabilities for cre
 
 The goal of this assignment is to provide hands-on experience with Unreal Engine's fundamental tools and features. It serves as a foundational step in utilizing Unreal Engine for more complex digital twin projects, emphasizing the creation of realistic and interactive environments.
 
+***
+23/01 Tuesday
+***
 
-
-### Day 6: Advanced Unreal Engine Techniques
+### Day 6
+### Advanced Unreal Engine Techniques
 
 #### Objective:
 To build upon the basic knowledge of Unreal Engine, introducing advanced techniques for graphics, simulation, and interactivity. This session aims to enhance the participants' skills in creating more dynamic and realistic digital twin environments.
@@ -297,9 +317,12 @@ To build upon the basic knowledge of Unreal Engine, introducing advanced techniq
 
 This assignment is aimed at applying advanced Unreal Engine features to create more immersive and dynamic digital twin environments. It encourages participants to experiment with the engine's full capabilities, laying the groundwork for sophisticated digital twin simulations and visualizations.
 
+***
+24/01 Wednesday
+***
 
-
-### Day 7: Digital Twin Simulation and Analysis
+### Day 7
+### Digital Twin Simulation and Analysis
 
 #### Objective:
 To guide participants in applying their acquired skills from previous sessions towards building a basic digital twin in NVIDIA Omniverse, focusing on simulation and analysis aspects. This session aims to bridge the gap between theoretical knowledge and practical application in digital twin technology.
@@ -355,9 +378,12 @@ To guide participants in applying their acquired skills from previous sessions t
 
 This assignment is designed to provide hands-on experience with creating a digital twin, emphasizing the importance of simulations and data analysis. It allows participants to practically apply the concepts and tools learned in the course to solve real-world problems using digital twins.
 
+***
+24/01 Thursday
+***
 
-
-### Day 8: Developing the Hive Project
+### Day 8
+### Developing the Hive Project
 
 #### Objective:
 On this day, participants will focus on developing a digital twin for the Hive project, utilizing their comprehensive skills in 3D modeling, NVIDIA Omniverse, and Unreal Engine. The task involves creating a realistic digital twin of the Hive fulfilment center, with a specific emphasis on integrating Universal Scene Description (USD) files from Omniverse into Unreal Engine.
