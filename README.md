@@ -379,7 +379,7 @@ To guide participants in applying their acquired skills from previous sessions t
 This assignment is designed to provide hands-on experience with creating a digital twin, emphasizing the importance of simulations and data analysis. It allows participants to practically apply the concepts and tools learned in the course to solve real-world problems using digital twins.
 
 ***
-24/01 Thursday
+25/01 Thursday
 ***
 
 ### Day 8
