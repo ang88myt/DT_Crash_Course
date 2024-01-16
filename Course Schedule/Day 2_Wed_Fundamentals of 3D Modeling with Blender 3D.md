@@ -27,21 +27,7 @@ To introduce the basics of 3D modeling using Blender 3D. This session aims to fa
 
 #### Afternoon Session: Creating Simple 3D Models
 
-1. **Modeling a Basic Object**
-   - Step-by-step guidance on modeling a simple object (e.g., a chair or table).
-   - Emphasis on clean topology and efficient use of geometry.
-
-2. **Applying Transformations**
-   - Practice in moving, scaling, and rotating objects and components within Blender.
-   - Understanding the importance of object origin and pivot points.
-
-3. **Basic Scene Composition**
-   - Arranging multiple objects to create a simple scene.
-   - Introduction to layers and collections for organizing complex scenes.
-
-4. **3D Viewport Navigation**
-   - Mastery of navigating the 3D viewport: zoom, pan, and orbit.
-   - Utilizing different shading modes for better visualization during modeling.
+Group Meeting
 
 ---
 

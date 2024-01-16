@@ -27,25 +27,7 @@ To build upon the basic knowledge of Unreal Engine, introducing advanced techniq
 
 #### Afternoon Session: Interactive Elements and Scripting
 
-1. **Blueprints Visual Scripting System**
-   - Advanced use of Blueprints for creating complex interactive behaviors.
-   - Building user interfaces and interactive controls.
-
-2. **Scripting with Unreal Engine**
-   - Introduction to scripting in Unreal Engine using C++ (for participants comfortable with programming).
-   - Simple scripting examples to enhance scene interactivity and control.
-
-3. **Creating AI and NPCs**
-   - Basics of AI in Unreal Engine for creating Non-Player Characters (NPCs) and simple AI behaviors.
-   - Utilizing the AI toolkit for pathfinding and decision-making.
-
-4. **Integrating External Data and APIs**
-   - Techniques for integrating external data sources and APIs into Unreal Engine projects.
-   - Demonstrating real-time data integration for dynamic scene updates.
-
----
-
-#### Assignment (End of Day):
+Warehouse Visit
 
 - **Task:** Enhance your Unreal Engine scene with advanced graphics and interactive elements.
   - Apply advanced rendering techniques for enhanced visual realism.

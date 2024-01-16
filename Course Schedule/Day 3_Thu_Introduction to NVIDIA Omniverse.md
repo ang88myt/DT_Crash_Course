@@ -1,4 +1,4 @@
-### Day 4: Introduction to NVIDIA Omniverse
+### Day 3: Introduction to NVIDIA Omniverse
 
 #### Objective:
 To introduce participants to NVIDIA Omniverse, a platform designed for collaboration and simulation in creating digital twins. The session will cover the basics of Omniverse's interface, its role in digital twins, and how to set up and run simple simulations.

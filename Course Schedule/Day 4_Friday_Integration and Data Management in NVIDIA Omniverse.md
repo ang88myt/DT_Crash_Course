@@ -1,4 +1,4 @@
-### Day 5: Integration and Data Management in NVIDIA Omniverse
+### Day 4 Friday: Integration and Data Management in NVIDIA Omniverse
 
 #### Objective:
 To deepen understanding of data integration and management within NVIDIA Omniverse, crucial for building effective digital twins. This session will focus on how to import, manage, and utilize data from various sources, as well as handling real-time updates and collaboration within Omniverse.
@@ -27,21 +27,7 @@ To deepen understanding of data integration and management within NVIDIA Omniver
 
 #### Afternoon Session: Real-time Updates and Collaboration
 
-1. **Working with Real-time Data Updates**
-   - Incorporating and visualizing real-time data in Omniverse.
-   - Simulating dynamic changes based on real-time data inputs.
-
-2. **Advanced Collaboration Techniques**
-   - Exploring advanced features for team collaboration.
-   - Handling conflicts and synchronizing work in a multi-user environment.
-
-3. **Data Visualization and Analysis**
-   - Techniques for visualizing complex data sets within Omniverse.
-   - Basic analysis tools to interpret simulation results and data trends.
-
-4. **Project Management within Omniverse**
-   - Strategies for effectively managing digital twin projects.
-   - Setting up workflows and timelines for project milestones.
+Start-up Launchpad Visit
 
 ---
 
