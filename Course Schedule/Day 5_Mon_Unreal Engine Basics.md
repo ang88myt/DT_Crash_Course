@@ -1,4 +1,4 @@
-### Day 6: Unreal Engine Basics
+### Day 5: Unreal Engine Basics
 
 #### Objective:
 To introduce participants to Unreal Engine, focusing on its capabilities for creating realistic environments and simulations. This session covers the basics of the Unreal Engine interface, scene creation, and fundamental tools essential for digital twin development.

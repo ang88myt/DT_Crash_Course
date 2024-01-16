@@ -1,4 +1,4 @@
-### Day 7: Advanced Unreal Engine Techniques
+### Day 6: Advanced Unreal Engine Techniques
 
 #### Objective:
 To build upon the basic knowledge of Unreal Engine, introducing advanced techniques for graphics, simulation, and interactivity. This session aims to enhance the participants' skills in creating more dynamic and realistic digital twin environments.
@@ -27,7 +27,7 @@ To build upon the basic knowledge of Unreal Engine, introducing advanced techniq
 
 #### Afternoon Session: Interactive Elements and Scripting
 
-Warehouse Visit
+**Warehouse Visit**
 
 - **Task:** Enhance your Unreal Engine scene with advanced graphics and interactive elements.
   - Apply advanced rendering techniques for enhanced visual realism.

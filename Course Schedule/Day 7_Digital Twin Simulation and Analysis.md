@@ -1,4 +1,4 @@
-### Day 8: Digital Twin Simulation and Analysis
+### Day 7: Digital Twin Simulation and Analysis
 
 #### Objective:
 To guide participants in applying their acquired skills from previous sessions towards building a basic digital twin in NVIDIA Omniverse, focusing on simulation and analysis aspects. This session aims to bridge the gap between theoretical knowledge and practical application in digital twin technology.

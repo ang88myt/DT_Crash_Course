@@ -1,4 +1,4 @@
-### Day 9: Developing the Hive Project
+### Day 8: Developing the Hive Project
 
 #### Objective:
 On this day, participants will focus on developing a digital twin for the Hive project, utilizing their comprehensive skills in 3D modeling, NVIDIA Omniverse, and Unreal Engine. The task involves creating a realistic digital twin of the Hive fulfilment center, with a specific emphasis on integrating Universal Scene Description (USD) files from Omniverse into Unreal Engine.
